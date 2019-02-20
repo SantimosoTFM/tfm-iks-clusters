@@ -1,0 +1,11 @@
+eu-de
+eu-gb
+us-south
+au-syd
+jp-tok
+us-east
+
+
+--ingress-deployment='jxing-nginx-ingress-controller': The name of the Ingress controller Deployment
+      --ingress-namespace='ingress-nginx': The namespace for the Ingress controller
+      --ingress-service='jxing-nginx-ingress-controller': The name of the Ingress controller Service
